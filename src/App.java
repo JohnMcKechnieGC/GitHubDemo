@@ -10,5 +10,8 @@ public class App {
         System.out.println("Forever together!");
         System.out.println("Java John!");
         System.out.println("IntelliJ-Test");
+
+        // Exciting new feature
+        System.out.println("Welcome to the new feature");
     }
 }
