@@ -9,5 +9,6 @@ public class App {
         System.out.println("Stronger together!");
         System.out.println("Forever together!");
         System.out.println("Java John!");
+        System.out.println("IntelliJ-Test");
     }
 }
